@@ -6,7 +6,7 @@ The project uses multiple classification algorithms and selects the best-perform
 
 ## 🌐 Live Application
 
-**Streamlit App:** [Click here to access the application](YOUR_STREAMLIT_APP_URL)
+**Streamlit App:** [Click here to access the application](https://road-accident-severity-xrms59pax5cwlqujmemtsa.streamlit.app/)
 
 Upload the accident dataset (`RTA Dataset.csv`) through the application to train the models and predict accident severity.
 
